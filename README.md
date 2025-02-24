@@ -56,5 +56,5 @@
 ###
 
 <div align="center">
-  <img src=/peppo-dance.gif" alt="My GIF" />
+  <img src=/images/peppo-dance.gif" alt="My GIF" />
 </div>
