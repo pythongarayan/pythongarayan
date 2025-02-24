@@ -31,7 +31,7 @@
 <h1 align="left">🌐 Socials:</h1>
 
 <div align="left">
-  <a href="pythongarayancoder@gmail.com">
+  <a href="[pythongarayancoder@gmail.com](https://mail.google.com/mail/u/0/?to=pythongarayancoder@gmail.com&su=&body=&fs=1&tf=cm)">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
     
