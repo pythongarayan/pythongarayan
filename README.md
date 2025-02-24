@@ -55,6 +55,4 @@
 
 ###
 
-<div align="center">
-  <img src=/images/peppo-dance.gif" alt="My GIF" />
-</div>
+![Alt text](/peppo-dance.gif) ![Alt text](/peppo-dance.gif)
