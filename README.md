@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋! My name is Arshia</h1>
-
+<br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1200">
 <br>
 
 <h1 align="left">💻 Tech Stack:</h1>
@@ -30,9 +31,3 @@
 </div>
 
 
-
-###
-
-![Alt text](/peppo-dance.gif)
-
-![Alt text](/peppo-dance.gif)
